@@ -1,0 +1,19 @@
+{
+  "name": "delicious",
+  "version": "1.0.0",
+  "description": "Apni Tapri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnil0000/Apni-tapri.git"
+  },
+  "author": "Shubham/Swapnil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnil0000/Apni-tapri/issues"
+  },
+  "homepage": "https://github.com/swapnil0000/Apni-tapri#readme"
+}
